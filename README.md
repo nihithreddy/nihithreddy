@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working as a Software Engineer
 - 🌱 I’m currently learning about Cloud (AWS) and Backend Development
+- I'm also a AWS Certified Cloud Practitioner.
